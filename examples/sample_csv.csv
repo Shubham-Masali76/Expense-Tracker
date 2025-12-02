@@ -1,0 +1,6 @@
+id,date,amount,category,description
+1,2025-12-01,250.00,food,lunch
+2,2025-12-02,1200.00,groceries,weekly
+3,2025-12-03,150.00,transport,bus
+4,2025-12-04,400.00,utilities,electricity
+5,2025-12-05,99.99,entertainment,movie
